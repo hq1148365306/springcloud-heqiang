@@ -96,11 +96,7 @@ gateway-admin可动态调整gateway-web的路由策略，测试前请先配置�
 
 确确保gateway-admin、gateway-web、organization、authorization-server、authentication-server服务启动，然后启动
 
-[前端项目](https://github.com/zhoutaoo/SpringCloud-Admin)（该项目目前还在开发中）
-
-大家启动如有问题，可以先到这里看看，也可以加入交流群
-
-[常见问题](https://github.com/zhoutaoo/SpringCloud/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+[前端项目]((https://github.com/hq1148365306/Springcloud-front.git))
 
 
 ### 测试
